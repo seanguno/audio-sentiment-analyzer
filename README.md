@@ -1,8 +1,8 @@
-# Group TEAM_NUMBER
-Group Name: TEAM_NAME
+# Group 22
+Group Name: The Jammies
 
 [MVP Link](http://cs196.cs.illinois.edu)
 
-Team Members: STUDENTS_NETIDS
+Team Members: hl89, sgimbel2, dguno2, yosheej2, mvatti2
 
-Project Manager: PM_NETID
+Project Manager: sjammi2
